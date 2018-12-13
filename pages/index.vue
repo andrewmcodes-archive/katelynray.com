@@ -8,7 +8,7 @@
           href="Katelyn_Ray_Resume.pdf"
           title="Katelyn Ray Resume"
           target="_blank"
-          class="button--green">Download Resume</a>
+          class="button--purple">Download Resume</a>
       </div>
     </div>
   </section>
@@ -29,17 +29,16 @@
   display: block;
   font-weight: 300;
   font-size: 100px;
-  color: #35495e;
   letter-spacing: 1px;
-  @apply mb-6;
+  @apply mb-6 text-purple-dark;
 }
 
 .subtitle {
   font-weight: 300;
   font-size: 42px;
-  color: #526488;
   word-spacing: 5px;
   padding-bottom: 15px;
+  @apply text-purple-dark;
 }
 
 .links {
