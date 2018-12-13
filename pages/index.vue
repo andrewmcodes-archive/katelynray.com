@@ -1,6 +1,6 @@
 <template>
   <section class="container mx-auto">
-    <div>
+    <div class="px-2">
       <img
         src="undraw_setup_wizard_r6mr.svg"
         alt=""
