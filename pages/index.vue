@@ -35,14 +35,14 @@
   display: block;
   font-weight: 500;
   letter-spacing: 1px;
-  @apply mb-6 text-purple-dark text-4xl mb-8;
+  @apply mb-6 text-purple-dark text-5xl mb-8;
 }
 
 .subtitle {
   font-weight: 300;
   word-spacing: 2px;
   padding-bottom: 15px;
-  @apply text-purple-dark text-2xl;
+  @apply text-purple-dark text-3xl;
 }
 
 .links {
