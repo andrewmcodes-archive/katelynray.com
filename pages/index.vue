@@ -1,8 +1,14 @@
 <template>
   <section class="container mx-auto">
     <div>
+      <img
+        src="undraw_setup_wizard_r6mr.svg"
+        alt=""
+        width="480px"
+        class="mb-6"
+      >
       <h1 class="title">Katelyn Ray</h1>
-      <h2 class="subtitle">My personal site</h2>
+      <h2 class="subtitle">Welcome to my personal site</h2>
       <div class="links">
         <a
           href="Katelyn_Ray_Resume.pdf"
@@ -24,21 +30,19 @@
 }
 
 .title {
-  font-family: 'Quicksand', 'Source Sans Pro', -apple-system, BlinkMacSystemFont,
-    'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Montserrat', 'Source Sans Pro', -apple-system,
+    BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
   display: block;
-  font-weight: 300;
-  font-size: 100px;
+  font-weight: 500;
   letter-spacing: 1px;
-  @apply mb-6 text-purple-dark;
+  @apply mb-6 text-purple-dark text-4xl mb-8;
 }
 
 .subtitle {
   font-weight: 300;
-  font-size: 42px;
-  word-spacing: 5px;
+  word-spacing: 2px;
   padding-bottom: 15px;
-  @apply text-purple-dark;
+  @apply text-purple-dark text-2xl;
 }
 
 .links {
