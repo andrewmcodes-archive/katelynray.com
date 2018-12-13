@@ -8,7 +8,9 @@
         class="mb-6"
       >
       <h1 class="title">Katelyn Ray</h1>
-      <h2 class="subtitle">Welcome to my personal site</h2>
+      <h2 class="subtitle">Welcome to
+        <br >
+        my site</h2>
       <div class="links">
         <a
           href="Katelyn_Ray_Resume.pdf"
