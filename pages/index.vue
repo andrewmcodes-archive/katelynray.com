@@ -5,7 +5,8 @@
       <h2 class="subtitle">My personal site</h2>
       <div class="links">
         <a
-          href="https://nuxtjs.org/"
+          href="Katelyn_Ray_Resume.pdf"
+          title="Katelyn Ray Resume"
           target="_blank"
           class="button--green">Download Resume</a>
       </div>
