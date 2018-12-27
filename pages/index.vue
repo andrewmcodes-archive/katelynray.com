@@ -1,22 +1,15 @@
 <template>
   <section class="container mx-auto">
     <div class="px-4">
-      <img
-        src="undraw_setup_wizard_r6mr.svg"
-        alt=""
-        width="480px"
-        class="mb-6"
-      >
+      <img src="undraw_setup_wizard_r6mr.svg" alt="setup wizard illustration" width="480px" class="mb-6">
       <h1 class="title">Katelyn Ray</h1>
-      <h2 class="subtitle">Welcome to
-        <br >
-        my site</h2>
       <div class="links">
         <a
           href="Katelyn_Ray_Resume.pdf"
           title="Katelyn Ray Resume"
           target="_blank"
-          class="button--purple">Download Resume</a>
+          class="button--purple"
+        >Download Resume</a>
       </div>
     </div>
   </section>
