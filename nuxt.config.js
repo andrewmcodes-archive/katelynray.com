@@ -50,11 +50,13 @@ module.exports = {
    */
   modules: [
     // Doc: https://github.com/nuxt-community/axios-module#usage
-    '@nuxtjs/axios',
-    '@nuxtjs/google-analytics',
-    {
-      id: process.env.GA_TRACKING_CODE
-    }
+    [
+      '@nuxtjs/axios',
+      '@nuxtjs/google-analytics',
+      {
+        id: process.env.GA_TRACKING_CODE
+      }
+    ]
   ],
   /*
    ** Axios module configuration

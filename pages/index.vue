@@ -10,6 +10,12 @@
       <h1 class="title">Katelyn Ray</h1>
       <div class="links">
         <a
+          href="mailto:katelyn.ray34@gmail.com?Subject=Hello"
+          title="Katelyn Ray Email"
+          target="_blank"
+          class="button--white"
+        >Email Me</a>
+        <a
           href="Katelyn_Ray_Resume.pdf"
           title="Katelyn Ray Resume"
           target="_blank"

@@ -39,4 +39,20 @@ html {
   color: #794acf;
   background-color: #fff;
 }
+
+.button--white {
+  display: inline-block;
+  text-decoration: none;
+  padding: 10px 30px;
+  border-radius: 4px;
+  color: #794acf;
+  background-color: #fff;
+  border: 1px solid #794acf;
+}
+
+.button--white:hover {
+  background-color: #794acf;
+  color: #fff;
+  border: 1px solid white;
+}
 </style>
