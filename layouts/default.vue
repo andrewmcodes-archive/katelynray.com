@@ -29,14 +29,14 @@ html {
   text-decoration: none;
   padding: 10px 30px;
   color: #fff;
-  background-color: #794acf;
+  background-color: #6c63ff;
   border-radius: 4px;
   border: 1px solid white;
 }
 
 .button--purple:hover {
-  border: 1px solid #794acf;
-  color: #794acf;
+  border: 1px solid #6c63ff;
+  color: #6c63ff;
   background-color: #fff;
 }
 
@@ -45,13 +45,13 @@ html {
   text-decoration: none;
   padding: 10px 30px;
   border-radius: 4px;
-  color: #794acf;
+  color: #6c63ff;
   background-color: #fff;
-  border: 1px solid #794acf;
+  border: 1px solid #6c63ff;
 }
 
 .button--white:hover {
-  background-color: #794acf;
+  background-color: #6c63ff;
   color: #fff;
   border: 1px solid white;
 }

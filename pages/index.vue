@@ -2,7 +2,7 @@
   <section class="container mx-auto">
     <div class="px-4">
       <img
-        src="https://res.cloudinary.com/onshore-studios/image/upload/v1546926908/katelynray/setup_wizard.svg"
+        src="https://res.cloudinary.com/onshore-studios/image/upload/v1547170754/katelynray/working_late.svg"
         alt="setup wizard illustration"
         width="480px"
         class="mb-6"
@@ -41,7 +41,8 @@
   display: block;
   font-weight: 500;
   letter-spacing: 1px;
-  @apply mb-6 text-purple-dark text-5xl mb-8;
+  @apply mb-6 text-5xl mb-8;
+  color: #6c63ff;
 }
 
 .subtitle {
