@@ -9,7 +9,7 @@
           class="mb-8"
         >
         <h1 class="title">Hi! I'm Katelyn</h1>
-        <h2 class="subtitle">Checkout my resume to learn more about me, or shoot me an email to get in touch!</h2>
+        <h2 class="subtitle">View my resume to learn about me, or shoot me an email to get in touch!</h2>
         <div class="links">
           <a
             href="mailto:katelyn.ray34@gmail.com?Subject=Hello"
@@ -61,6 +61,6 @@
 .subtitle {
   font-weight: 350;
   word-spacing: 2px;
-  @apply text-xl leading-loose mb-8 text-purple-darker max-w-sm px-2;
+  @apply text-lg leading-loose mb-8 text-purple-darker max-w-sm px-2;
 }
 </style>
