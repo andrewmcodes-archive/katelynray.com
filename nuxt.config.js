@@ -16,9 +16,13 @@ module.exports = {
         content: 'width=device-width, initial-scale=1'
       },
       {
+        name: 'keywords',
+        content: 'portfolio, resume, katelyn, ray, uncw, recruiter, cv, personal'
+      },
+      {
         hid: 'description',
         name: 'description',
-        content: pkg.description
+        content: "Katelyn Ray's Personal Website"
       }
     ],
     link: [{
@@ -32,7 +36,7 @@ module.exports = {
    ** Customize the progress-bar color
    */
   loading: {
-    color: '#fff'
+    color: '#6c63ff'
   },
 
   /*
