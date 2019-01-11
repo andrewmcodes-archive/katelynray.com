@@ -6,7 +6,7 @@
           src="https://res.cloudinary.com/onshore-studios/image/upload/v1547170754/katelynray/working_late.svg"
           alt="setup wizard illustration"
           width="480px"
-          class="mb-6"
+          class="mb-8"
         >
         <h1 class="title">Hi! I'm Katelyn</h1>
         <h2 class="subtitle">Checkout my resume to learn more about me, or shoot me an email to get in touch!</h2>
@@ -55,17 +55,12 @@
   font-weight: 600;
   letter-spacing: 1px;
   color: #6c63ff;
-  @apply text-5xl mb-4;
+  @apply text-5xl mb-3;
 }
 
 .subtitle {
   font-weight: 350;
   word-spacing: 2px;
-  /* color: #6c63ff; */
-  @apply text-xl leading-loose mb-6 text-purple-darker max-w-sm px-2;
-}
-
-.links {
-  padding-top: 15px;
+  @apply text-xl leading-loose mb-8 text-purple-darker max-w-sm px-2;
 }
 </style>
