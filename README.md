@@ -1,6 +1,6 @@
 # katelynray.com
 
-> My personal site
+Katelyn Ray's Personal Website
 
 ## Build Setup
 
