@@ -9,7 +9,7 @@
           class="mb-6"
         >
         <h1 class="title">Hi! I'm Katelyn</h1>
-        <h2 class="subtitle">Checkout my resume to learn more about me <br >or shoot me an email to get in touch!</h2>
+        <h2 class="subtitle">Checkout my resume to learn more about me, or shoot me an email to get in touch!</h2>
         <div class="links">
           <a
             href="mailto:katelyn.ray34@gmail.com?Subject=Hello"
@@ -62,7 +62,7 @@
   font-weight: 350;
   word-spacing: 2px;
   /* color: #6c63ff; */
-  @apply text-xl leading-loose mb-6 text-purple-darker;
+  @apply text-xl leading-loose mb-6 text-purple-darker max-w-sm;
 }
 
 .links {
