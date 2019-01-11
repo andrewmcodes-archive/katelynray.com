@@ -55,7 +55,7 @@
   font-weight: 600;
   letter-spacing: 1px;
   color: #6c63ff;
-  @apply text-5xl mb-3;
+  @apply text-4xl mb-3;
 }
 
 .subtitle {
