@@ -62,7 +62,7 @@
   font-weight: 350;
   word-spacing: 2px;
   /* color: #6c63ff; */
-  @apply text-xl leading-loose mb-6 text-purple-darker max-w-sm;
+  @apply text-xl leading-loose mb-6 text-purple-darker max-w-sm px-2;
 }
 
 .links {
