@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="background-grey">
     <nuxt/>
   </div>
 </template>
@@ -24,20 +24,23 @@ html {
   margin: 0;
 }
 
+.background-grey {
+  background-color: #f8fafc;
+}
 .button--purple {
   display: inline-block;
   text-decoration: none;
   padding: 10px 30px;
-  color: #fff;
+  color: #f8fafc;
   background-color: #6c63ff;
   border-radius: 4px;
-  border: 1px solid white;
+  border: 1px solid #f8fafc;
 }
 
 .button--purple:hover {
   border: 1px solid #6c63ff;
   color: #6c63ff;
-  background-color: #fff;
+  background-color: #f8fafc;
 }
 
 .button--white {
@@ -46,13 +49,13 @@ html {
   padding: 10px 30px;
   border-radius: 4px;
   color: #6c63ff;
-  background-color: #fff;
+  background-color: #f8fafc;
   border: 1px solid #6c63ff;
 }
 
 .button--white:hover {
   background-color: #6c63ff;
-  color: #fff;
-  border: 1px solid white;
+  color: #f8fafc;
+  border: 1px solid #f8fafc;
 }
 </style>
